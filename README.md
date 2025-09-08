@@ -1,32 +1,92 @@
-# 📊 Financial Health Analysis – PEC Fresh Good Food Market
+<p align="center">
+  <img src="Assets/Banner.png" width="100%">
+</p>
 
-> Strategic consultancy project | Community food access | Certificate in Social Impact
+# 🥕 Financial Turnaround Strategy for PEC Fresh
 
----
+*A deep-dive financial analysis of a rural nonprofit food market using five years of operations data, leading to an endorsed turnaround strategy by executive leadership.*
 
-## 🧩 Problem Statement
+* Dataset timing: **2019 – 2024**
+* Topics covered: **Financial Sustainability & Social Impact**
+* Models used: **Comparative Year-over-Year Financial Review**
+* Skills demonstrated: **Excel Analysis, Consulting Frameworks, Branch Modeling**
+* Expected outcome:
 
-PEC Fresh was operating at a financial deficit due to rising wages, plateaued sales, and underperforming branches. A complete financial and operational review was required to guide sustainability decisions.
-
----
-
-## 🔍 What I Did
-
-- Analyzed 5 years of branch-level income statements  
-- Delivered strategy report, endorsed by client leadership  
-- Built a turnaround roadmap with branch-level impact  
-- Collaborated directly with the Executive Director & Coordinator  
+  * **Cut cost burden by \~CA\$30,000**
+  * **Improve operational sustainability of PEC Fresh**
 
 ---
 
-## 📁 Repository Structure
+## 🏆 Recognition
 
-📦 Financial-Health-Analysis
-├── 📄 Final Report.pdf → Strategic consulting report for PELC
-├── 📄 Final Reflection.docx → Final essay for Certificate in Social Impact
-├── 📄 Endorsement.pdf → Official letter of impact from Executive Director
-├── 📄 Experiential Learning Plan.docx→ Approved work plan for experiential project
-├── 📊 PEC Fresh Financials.xlsx → Cleaned & analyzed income data
+- ✔ Endorsed by **Kathy Kennedy**, Executive Director, PELC  
+- ✔ Earned **Certificate in Social Impact** from Queen’s University  
+- ✔ Profiled by CEISI for high-impact student work
+
+<p align="center">
+  <img src="Assets/Recognition1.png" width="50%"> 
+  <img src="Assets/Recognition2.png" width="45%">
+</p>
+
+---
+
+🔒 Data Privacy Notice
+
+This repository does not include or expose any raw data due to confidentiality agreements. All analysis is based on proprietary financial and behavioral datasets provided by the client.
+
+---
+
+
+## 👥 Author
+
+## **Sam Hossain**
+
+---
+
+## 🔍 Problem Statement
+
+<p align="center">
+  <img src="Assets/Company1.png" width="80%">
+  <img src="Assets/Company2.png" width="80%">
+</p>
+
+
+**Goal:**
+Diagnose persistent net losses at PEC Fresh and recommend cost-effective solutions while maintaining community food access.
+
+**Challenges Addressed:**
+
+* Disproportionate wage growth vs. revenue
+* Operational cost allocation across multiple branches
+* Dependency on volatile donation funding
+* Limited ability to scale outreach without structural redesign
+
+---
+
+## 🔧 Workflow
+
+### ✅ Financial Analysis & Branch Review
+
+* Analyzed 5 years of income statements (by branch & total)
+* Categorized revenue and expenses to isolate leakage points
+
+
+### 🤖 Branch-by-Branch Financial Analysis
+
+| Branch       | Status | Net Income (2024) | Verdict                      |
+| ------------ | ------ | ----------------- | ---------------------------- |
+| Picton       | Active | -49,075.19        | Needs efficiency reform      |
+| Sophiasburgh | Closed | -11,961.30        | Shutdown validated           |
+| Consecon     | Active | -1,085.86         | Monitor for future viability |
+
+**Financial Analysis Output:** Recommended closure of Sophiasburgh, tighter control at Picton, and cost monitoring at Consecon.
+
+
+### 💼 Strategic Recommendations & Tracking
+
+* Rolled out branch-by-branch performance matrix
+* Set measurable KPIs for monthly performance tracking
+* Incorporated community engagement goals into reporting
 
 
 ---
@@ -40,7 +100,7 @@ PEC Fresh was operating at a financial deficit due to rising wages, plateaued sa
 
 ---
 
-## 📌 Recommendations Summary
+## 💡 Key Recommendations
 
 | Recommendation                  | Status           |
 |-------------------------------|------------------|
@@ -49,6 +109,11 @@ PEC Fresh was operating at a financial deficit due to rising wages, plateaued sa
 | Introduce Pre-ordering Model  | 🔄 In Planning   |
 | Reallocate Staff Hours        | ✅ In Progress   |
 | Establish Branch KPIs         | ✅ Adopted       |
+
+<p align="center">
+  <img src="Assets/Recommendation1.png" width="80%">
+  <img src="Assets/Recommendation2.png" width="80%">
+</p>
 
 ---
 
@@ -59,36 +124,32 @@ PEC Fresh was operating at a financial deficit due to rising wages, plateaued sa
 - 📊 Improved program reporting and donor confidence  
 - ✅ Increased social impact with fiscal sustainability  
 
----
-
-## 🏆 Recognition
-
-- ✔ Endorsed by **Kathy Kennedy**, Executive Director, PELC  
-- ✔ Earned **Certificate in Social Impact** from Queen’s University  
-- ✔ Profiled by CEISI for high-impact student work  
 
 ---
 
-## 🙌 Acknowledgements
+## 📊 Output Dashboard
 
-Special thanks to:
-- **Kathy Kennedy**, Executive Director, Prince Edward Learning Centre  
-- **Robyn Cakebread**, PEC Fresh Market Coordinator  
-- **Christina Sager**, CEISI Operations Manager, Smith School of Business
-
----
-
-## 📬 Contact
-
-**Sam Hossain**  
-🎓 Master of Management Analytics (MMA), Class of 2025  
-🏫 Smith School of Business, Queen’s University  
-📧 hossain.sam@queensu.ca  
-🌐 [hossainsam.ca](https://hossainsam.ca)  
-🔗 [LinkedIn](https://www.linkedin.com/in/hossainsam)
+<p align="center">
+  <img src="Assets/Dashboard1.png" width="80%">
+  <img src="Assets/Dashboard2.png" width="80%">
+  <img src="Assets/Dashboard3.png" width="80%">
+  <img src="Assets/Dashboard4.png" width="80%">
+  <img src="Assets/Report1.png" width="80%">
+  <img src="Assets/Report2.png" width="80%">
+</p>
 
 ---
 
-## 📜 License
+## 🧼 Data Sources
 
-Licensed under the MIT License.
+* Internal income statements from PELC (2019–2024)
+* Stakeholder interviews and qualitative inputs from staff
+* Community needs and food insecurity data from PELC reports
+
+---
+
+## 🔓 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
