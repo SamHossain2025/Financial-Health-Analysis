@@ -47,12 +47,19 @@ This repository does not include or expose any raw data due to confidentiality a
 
 <p align="center">
   <img src="Assets/Company1.png" width="80%">
-  <img src="Assets/Company2.png" width="80%">
+
 </p>
 
 
 **Goal:**
 Diagnose persistent net losses at PEC Fresh and recommend cost-effective solutions while maintaining community food access.
+
+
+<p align="center">
+
+  <img src="Assets/Company2.png" width="80%">
+</p>
+
 
 **Challenges Addressed:**
 
@@ -91,7 +98,7 @@ Diagnose persistent net losses at PEC Fresh and recommend cost-effective solutio
 
 ---
 
-## 💡 Key Findings
+## 🎯 Key Findings
 
 - Sophiasburgh incurred costs despite closure → recommended shutdown  
 - Wage growth outpaced sales → suggested volunteer substitution  
@@ -142,7 +149,7 @@ Diagnose persistent net losses at PEC Fresh and recommend cost-effective solutio
 
 ---
 
-## 🧼 Data Sources
+## 🧬 Data Sources
 
 * Internal income statements from PELC (2019–2024)
 * Stakeholder interviews and qualitative inputs from staff
