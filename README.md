@@ -47,12 +47,19 @@ This repository does not include or expose any raw data due to confidentiality a
 
 <p align="center">
   <img src="Assets/Company1.png" width="80%">
-  <img src="Assets/Company2.png" width="80%">
+
 </p>
 
 
 **Goal:**
 Diagnose persistent net losses at PEC Fresh and recommend cost-effective solutions while maintaining community food access.
+
+
+<p align="center">
+
+  <img src="Assets/Company2.png" width="80%">
+</p>
+
 
 **Challenges Addressed:**
 
