@@ -91,7 +91,7 @@ Diagnose persistent net losses at PEC Fresh and recommend cost-effective solutio
 
 ---
 
-## 💡 Key Findings
+## 🎯 Key Findings
 
 - Sophiasburgh incurred costs despite closure → recommended shutdown  
 - Wage growth outpaced sales → suggested volunteer substitution  
@@ -142,7 +142,7 @@ Diagnose persistent net losses at PEC Fresh and recommend cost-effective solutio
 
 ---
 
-## 🧼 Data Sources
+## 🧬 Data Sources
 
 * Internal income statements from PELC (2019–2024)
 * Stakeholder interviews and qualitative inputs from staff
