@@ -112,7 +112,6 @@ Diagnose persistent net losses at PEC Fresh and recommend cost-effective solutio
 
 <p align="center">
   <img src="Assets/Recommendation1.png" width="80%">
-  <img src="Assets/Recommendation2.png" width="80%">
 </p>
 
 ---
@@ -122,7 +121,11 @@ Diagnose persistent net losses at PEC Fresh and recommend cost-effective solutio
 - 💵 ~$30,000 cost recovery  
 - 📉 Reduced wage-to-sales ratio  
 - 📊 Improved program reporting and donor confidence  
-- ✅ Increased social impact with fiscal sustainability  
+- ✅ Increased social impact with fiscal sustainability
+
+<p align="center">
+  <img src="Assets/Recommendation2.png" width="80%">
+</p>
 
 
 ---
