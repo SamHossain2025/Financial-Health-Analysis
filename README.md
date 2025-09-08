@@ -39,7 +39,7 @@ This repository does not include or expose any raw data due to confidentiality a
 
 ## 👥 Author
 
-## **Sam Hossain**
+**Sam Hossain**
 
 ---
 
