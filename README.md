@@ -133,7 +133,6 @@ Diagnose persistent net losses at PEC Fresh and recommend cost-effective solutio
 ## 📊 Output Dashboard
 
 <p align="center">
-  <img src="Assets/Dashboard1.png" width="80%">
   <img src="Assets/Dashboard2.png" width="80%">
   <img src="Assets/Dashboard3.png" width="80%">
   <img src="Assets/Dashboard4.png" width="80%">
